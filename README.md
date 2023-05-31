@@ -3,7 +3,6 @@
 
 **💼 Currently working as:** Software Engineer at <a href="https://github.com/orgs/sysbeams/" target="_blank"><b>Sysbeams</b></a>.
 
-📝 I regularly write articles on [my personal website (blog)](https://berkansasmaz.com/)
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusuffAhmad&layout=compact&theme=tokyonight&count_private=true" alt="berkansasmaz" height="160" />
