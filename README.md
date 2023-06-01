@@ -35,13 +35,13 @@ using advanced technology of Bio-metrics and maintained reports on how biometric
 <h3 align="center"> 👨🏻‍💻 Social Media: </h4>
 <p align="center"> 
  <a href="https://twitter.com/privateeye47493" alt="Ahmad's twitter">
-   <img src="https://img.shields.io/badge/-@iammukeshm-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+   <img src="https://img.shields.io/badge/-@YusuffAhmad-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
  </a>
  <a href="https://github.com/YusuffAhmad" alt="mukesh's github">
-   <img src="https://img.shields.io/badge/-@iammukeshm-%23181717?style=flat-square&logo=github" />
+   <img src="https://img.shields.io/badge/-@YusuffAhmad-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/yusuff-ahmad-o-a27233238/" alt="mukesh's linkedin">
-   <img src="https://img.shields.io/badge/-iammukeshm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iammukeshm" />
+   <img src="https://img.shields.io/badge/-YusuffAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusuff-ahmad-o-a27233238/" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=YusuffAhmad&color=ff69b4&style=flat-square" />
