@@ -46,7 +46,6 @@ using advanced technology of Bio-metrics and maintained reports on how biometric
  <a>
    <img src="https://komarev.com/ghpvc/?username=YusuffAhmad&color=ff69b4&style=flat-square" />
  </a>
-<a href="https://www.linkedin.com/in/yusuff-ahmad-o-a27233238/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="YusuffAhmad" height="30" width="30" /></a>
 </p>
 
 <hr />
