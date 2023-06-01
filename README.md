@@ -23,7 +23,7 @@ bring your software ideas to life!
 
 I always make sure that I find enough time for developing beneficial software solutions and contributing to software projects also helps me expand my knowledge and skill sets and work with other developers and team globally.
 
-- 💥 [Payroll Application](https://github.com/YusuffAhmad/payrollapplication): A .NET application that incorporates the Nigeria Employee Taxing System.
+- 💥 [Payroll Application](https://github.com/YusuffAhmad/PayRollManagmentSystem): A .NET application that incorporates the Nigeria Employee Taxing System.
 - 🛒 [Private Eye Security Software: ](https://github.com/YusuffAhmad/PrivateEye): A web-based application that identifies individuals with criminal records and alerts the relevant authorities
 using advanced technology of Bio-metrics and maintained reports on how biometrics has become an emerging tech. for recognizing individuals using their biological traits. Gathered information such as face recognition
 - 🥇 and tons of other repositories are are there in the private mode.
@@ -93,5 +93,4 @@ using advanced technology of Bio-metrics and maintained reports on how biometric
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=YusuffAhmad&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F" />
-<a href="#" alt="Ahmad's github stats"><img src="https://github-readme-stats.vercel.app/api?username=YusuffAhmad" /></a>
 </p>
