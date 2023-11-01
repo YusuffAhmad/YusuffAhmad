@@ -1,9 +1,8 @@
 ![](assets/header.png)
 <h1 align="center">Hi 👋, I'm Ahmad Yusuff</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
-**💼 Currently working as:** Software Engineer at <a href="https://github.com/orgs/sysbeams/" target="_blank"><b>Sysbeams</b></a>.
-🦸 Career Aim - Work for a cool Product company! 
+**🦸 Career Aim:** Work for a cool Product company! 
 
 > A goal-oriented .NET software engineer with expertise in developing and managing large and robust 
 software solutions using C#, ASP.NET, React, HTML, CSS, JavaScript and Agile/Scrum methodologies. I have a proven track record of delivering 
@@ -16,18 +15,6 @@ bring your software ideas to life!
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusuffAhmad&layout=compact&theme=tokyonight&count_private=true" alt="berkansasmaz" height="160" />
 <img src="https://github-readme-stats.vercel.app/api?username=YusuffAhmad&show_icons=true&theme=tokyonight&count_private=true" alt="YusuffAhmad" height="160" />
-</p>
-
-<p align="center">
-#### 💻 Personal Projects Contributions
-
-I always make sure that I find enough time for developing beneficial software solutions and contributing to software projects also helps me expand my knowledge and skill sets and work with other developers and team globally.
-
-- 💥 [Payroll Application](https://github.com/YusuffAhmad/PayRollManagmentSystem): A .NET application that incorporates the Nigeria Employee Taxing System.
-- 🛒 [Private Eye Security Software: ](https://github.com/YusuffAhmad/PrivateEye): A web-based application that identifies individuals with criminal records and alerts the relevant authorities
-using advanced technology of Bio-metrics and maintained reports on how biometrics has become an emerging tech. for recognizing individuals using their biological traits. Gathered information such as face recognition
-- 🥇 and tons of other repositories are are there in the private mode.
-
 </p>
 
 <hr />
