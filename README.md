@@ -1,10 +1,41 @@
-![](assets/header.png)
-<h1 align="center">Hi , I'm Ahmad Yusuff</h1>
+![Header Image](assets/header.png)
+
+<h1 align="center">Hi, I'm Ahmad Yusuff</h1>
 <h3 align="center">Full-Stack Developer | Fintech Enthusiast</h3>
 
-**I'm a passionate full-stack developer with a focus on building robust financial platforms.** My expertise lies in C#, ASP.NET, React, and Agile methodologies. I successfully developed a comprehensive payment platform similar to Remita, offering features like bill payments, money transfers, and airtime recharge. I'm committed to creating innovative solutions that simplify financial transactions and improve user experience. 
+As an experienced C# engineer with a proven track record in delivering scalable software solutions, I also hone my skills in PHP. My expertise spans front-end development, cloud engineering, and automation. I am passionate about staying ahead of emerging technologies and industry trends, continually updating my skills to drive innovation and excellence in software development.
 
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YusuffAhmad&label=Profile%20views&color=0e75b6&style=flat" alt="YusuffAhmad" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YusuffAhmad&label=Profile%20views&color=0e75b6&style=flat" alt="YusuffAhmad" />
+</p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusuffAhmad&show_icons=true)
+---
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** C#, PHP, JavaScript, HTML, CSS
+- **Frameworks:** .NET, Laravel, React, Node.js
+- **Cloud Platforms:** AWS, Azure
+- **Tools:** Git, Docker, Kubernetes
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YusuffAhmad&show_icons=true&theme=radical" alt="YusuffAhmad's GitHub Stats" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+- LinkedIn: [Ahmad Yusuff](https://www.linkedin.com/in/YusuffAhmad)
+- Email: [yusuffahmad2005@gmail.com](mailto:yusuffahmad2005@gmail.com)
+
+---
+
+<p align="center">
+  <i>“Strive not to be a success, but rather to be of value.”</i> - Albert Einstein
+</p>
