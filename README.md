@@ -1,7 +1,7 @@
 ![Header Image](assets/header.png)
 
 <h1 align="center">Hi, I'm Ahmad Yusuff</h1>
-<h3 align="center">Full-Stack Developer | Fintech Enthusiast</h3>
+<h3 align="center">Full-Stack Engineer | Cloud & Automation Specialist</h3>
 
 As an experienced C# engineer with a proven track record in delivering scalable software solutions, I also hone my skills in PHP. My expertise spans front-end development, cloud engineering, and automation. I am passionate about staying ahead of emerging technologies and industry trends, continually updating my skills to drive innovation and excellence in software development.
 
