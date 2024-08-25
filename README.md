@@ -31,11 +31,11 @@ As an experienced C# engineer with a proven track record in delivering scalable 
 
 ### 📫 Contact Me
 
-- LinkedIn: [Ahmad Yusuff](https://www.linkedin.com/in/YusuffAhmad)
+- LinkedIn: [Ahmad Yusuff](https://www.linkedin.com/in/yusuff-ahmad)
 - Email: [yusuffahmad2005@gmail.com](mailto:yusuffahmad2005@gmail.com)
 
 ---
 
 <p align="center">
-  <i>“Strive not to be a success, but rather to be of value.”</i> - Albert Einstein
+  <i>“Strive not to be a success, but rather to be of value.”</i> - Albert Einstein 
 </p>
