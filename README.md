@@ -1,7 +1,7 @@
 ![Header Image](assets/header.png)
 
 <h1 align="center">Hi, I'm Ahmad Yusuff</h1>
-<h3 align="center">Software Engineer | Cloud & Automation Enthusiast</h3>
+<h3 align="center">Software Engineer | Cloud-Native Development & Automation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yusuff-ahmad">LinkedIn</a> • 
