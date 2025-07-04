@@ -1,50 +1,42 @@
-![Header Image](assets/header.png)
+# 👋 Hi, I'm Ahmad Yusuff
 
-<h1 align="center">Hi, I'm Ahmad Yusuff</h1>
-<h3 align="center">Software Engineer | Cloud-Native Development & Automation</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yusuff-ahmad">LinkedIn</a> • 
-  <a href="mailto:yusuffahmad2005@gmail.com">Email</a>
-</p>
+I'm a **Software Engineer** (Backend | Fullstack | Cloud) passionate about building scalable systems, developer tooling, and solving real-world problems with technology.
 
 ---
 
-### 👨‍💻 About Me
-
-I'm a passionate and results-driven Software Engineer with strong experience in building scalable backend systems using **C#/.NET** and **PHP**. I bring a holistic skill set across **cloud engineering**, **front-end development**, and **DevOps automation**. I'm constantly learning, building, and optimizing software to solve real-world problems efficiently.
-
----
-
-### 🚀 Tech Stack
-
-- **Languages:** C#, PHP, JavaScript, HTML/CSS  
-- **Frameworks/Libraries:** .NET, Laravel, React, Node.js  
-- **Cloud Platforms:** Azure, AWS  
-- **DevOps & Tools:** Git, Docker, Kubernetes  
-- **Databases:** MySQL, PostgreSQL, MongoDB
+### 🚀 Tech Stack & Tools
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusuffAhmad&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### 📈 GitHub Stats
+![Ahmad Yusuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadYusuff&show_icons=true&theme=radical)
 
 ---
 
-### 📫 Let's Connect
-
-- 📍 [LinkedIn](https://www.linkedin.com/in/yusuff-ahmad)  
-- 📧 [yusuffahmad2005@gmail.com](mailto:yusuffahmad2005@gmail.com)
+### 🛠️ Projects I'm proud of
+- 🔗 **[Emergency Response System](#)** — Smart ambulance dispatch platform using real-time GPS, SignalR, and Azure Functions.
+- 📚 **[Islamic Scholarship Planner](#)** — Combines Quran memorization, Hadith study, and task planning in one app.
+- ⚡ **[Wallet-based Utility Payments](#)** — Wallet system that supports electricity metering with service charge and ledger integration.
 
 ---
 
-<p align="center">
-  <i>“Strive not to be a success, but rather to be of value.” – Albert Einstein</i>
-</p>
+### ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How I Rebuilt My GitHub After Harsh Criticism](#)
+- [Mastering .NET Microservices with DDD and Clean Architecture](#)
+- [From Panic to Production: How We Built an Emergency Response App in 72 Hours](#)
+<!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YusuffAhmad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+---
+
+### 🔗 Let's Connect
+[LinkedIn](#) • [Twitter](#) • [Dev.to](#) • [Portfolio](#)
+
+> *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
