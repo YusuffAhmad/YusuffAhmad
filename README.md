@@ -37,6 +37,6 @@ I'm a **Software Engineer** (Backend | Fullstack | Cloud) passionate about build
 ---
 
 ### 🔗 Let's Connect
-[LinkedIn](#) • [Twitter](#) • [Dev.to](#) • [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/yusuff-ahmad/) • [Twitter](https://x.com/YusuffAhmadO) • [Dev.to](#) • [Portfolio](#)
 
 > *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
