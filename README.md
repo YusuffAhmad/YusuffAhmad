@@ -16,7 +16,7 @@ I'm a **Software Engineer** (Backend | Fullstack | Cloud) passionate about build
 ---
 
 ### 📈 GitHub Stats
-![Ahmad Yusuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadYusuff&show_icons=true&theme=radical)
+![Ahmad Yusuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusuffAhmad&show_icons=true&theme=radical)
 
 ---
 
