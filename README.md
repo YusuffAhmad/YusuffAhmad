@@ -15,11 +15,17 @@ I'm a **Software Engineer** (Backend | Fullstack | Cloud) passionate about build
 
 ---
 
-### 📈 GitHub Stats
-![Ahmad Yusuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusuffAhmad&show_icons=true&theme=radical)
+### 📈 GitHub Analytics
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YusuffAhmad&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YusuffAhmad&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=YusuffAhmad&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F" width="47%"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YusuffAhmad&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
 ---
 
 ### 🛠️ Projects I'm proud of
