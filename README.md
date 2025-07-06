@@ -17,7 +17,9 @@ I'm a **Software Engineer** (Backend | Fullstack | Cloud) passionate about build
 
 ### 📈 GitHub Stats
 ![Ahmad Yusuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusuffAhmad&show_icons=true&theme=radical)
-
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YusuffAhmad&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F" />
+</p>
 ---
 
 ### 🛠️ Projects I'm proud of
@@ -38,11 +40,5 @@ I'm a **Software Engineer** (Backend | Fullstack | Cloud) passionate about build
 
 ### 🔗 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/yusuff-ahmad/) • [Twitter](https://x.com/YusuffAhmadO) • [Dev.to](https://dev.to/yusuffahmad) • [Portfolio](#)
-
-<hr />
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YusuffAhmad&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F" />
-</p>
 
 > *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
