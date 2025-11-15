@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmad Yusuff
 
-I'm a **Software Engineer** (Backend | Fullstack | Cloud) passionate about building scalable systems, developer tooling, and solving real-world problems with technology.
+I'm a **Software Engineer** passionate about building scalable systems, developer tooling, and solving real-world problems with technology.
 
 ---
 
