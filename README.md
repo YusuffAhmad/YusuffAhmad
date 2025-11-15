@@ -29,22 +29,6 @@ I'm a **Software Engineer** (Backend | Fullstack | Cloud) passionate about build
 
 ---
 
-### 🛠️ Projects I'm proud of
-- 🔗 **[Emergency Response System](#)** — Smart ambulance dispatch platform using real-time GPS, SignalR, and Azure Functions.
-- 📚 **[Islamic Scholarship Planner](#)** — Combines Quran memorization, Hadith study, and task planning in one app.
-- ⚡ **[Wallet-based Utility Payments](#)** — Wallet system that supports electricity metering with service charge and ledger integration.
-
----
-
-### ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I Rebuilt My GitHub After Harsh Criticism](#)
-- [Mastering .NET Microservices with DDD and Clean Architecture](#)
-- [From Panic to Production: How We Built an Emergency Response App in 72 Hours](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 🔗 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/yusuff-ahmad/) • [Twitter](https://x.com/YusuffAhmadO) • [Dev.to](https://dev.to/yusuffahmad) • [Portfolio](#)
 
