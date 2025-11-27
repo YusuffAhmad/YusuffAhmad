@@ -47,7 +47,7 @@ Researching **Delay/Disruption-Tolerant Networking (DTN)**, **Deep Space Optical
 
 🚀 Feel free to star, fork, or open an issue — let’s build the future together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yusuffahmad)  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=x)](https://x.com/YusuffAhmadO)  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-1066CC?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=srLkwMEAAAAJ)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yusuff-ahmad)  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=x)](https://x.com/YusuffAhmadO)  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-1066CC?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=srLkwMEAAAAJ)  
 
 ---
 
