@@ -45,14 +45,11 @@ Researching **Delay/Disruption-Tolerant Networking (DTN)**, **Deep Space Optical
 
 ---
 
-Building fault-tolerant systems on Earth today.  
-Routing bundles to Mars tomorrow.  
-
 🚀 Feel free to star, fork, or open an issue — let’s build the future together!
-
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yusuffahmad)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=x)](https://x.com/YusuffAhmadO)  
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-1066CC?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=srLkwMEAAAAJ)  
-
+</p>
 ---
 *“If it works on Mars with 20-minute delays, it will definitely work in your microservices.”* 😄
