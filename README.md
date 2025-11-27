@@ -7,7 +7,7 @@ Currently extending terrestrial networking principles to the final frontier — 
 Researching **Delay/Disruption-Tolerant Networking (DTN)**, **Deep Space Optical Communications (DSOC)**, and interplanetary network architectures. Working toward seamless communication between rovers, orbiters, lunar gateways, and future Mars colonies using Bundle Protocol, store-and-forward overlays, and laser links.
 
 ### 💻 Expertise & Stack
-- **Languages & Frameworks**: .NET 8, C#, ASP.NET Core, gRPC  
+- **Languages & Frameworks**: .NET, C#, ASP.NET Core, gRPC  
 - **Distributed Systems**: Event-Driven Architecture, CQRS, Message Queues, Sagas  
 - **Cloud & DevOps**: Google Cloud (GKE, Cloud Run, Pub/Sub, Vertex AI), Docker, Kubernetes, CI/CD  
 - **Space Networking**: NASA ION, µPCN, Bundle Protocol v7, LTP, Contact Graph Routing  
@@ -47,9 +47,13 @@ Researching **Delay/Disruption-Tolerant Networking (DTN)**, **Deep Space Optical
 
 🚀 Feel free to star, fork, or open an issue — let’s build the future together!
 <p align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yusuffahmad)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=x)](https://x.com/YusuffAhmadO)  
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-1066CC?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=srLkwMEAAAAJ)  
+
 </p>
+
 ---
+
 *“If it works on Mars with 20-minute delays, it will definitely work in your microservices.”* 😄
